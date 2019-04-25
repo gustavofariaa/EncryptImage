@@ -71,14 +71,8 @@ def print_percentage(count, percentage, mod):
     print ("Loading  \\  [" + str(percentage) + "]")
     print ("")
 
-# Main   
+# Encrypt image   
 ROUNDS = 16
-ZERO_KEY = True
-encrypt_image()
 ZERO_KEY = False
-encrypt_image()
-ROUNDS = 0
-encrypt_image()
-ROUNDS = 1
 encrypt_image()
 
