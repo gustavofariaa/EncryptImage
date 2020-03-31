@@ -2,10 +2,10 @@
 
 ## Getting Started
 ```
-git clone git@github.com:gustavofariaa/Encrypt-Image-DES-.git
+git clone git@github.com:gustavofariaa/EncryptImage.git
 ```
 ```
-cd Encrypt-Image-DES-
+cd EncryptImage
 ```
 ## Runing
 ```
