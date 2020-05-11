@@ -1,4 +1,16 @@
-# Criptografia de imagem utilizando o método Data Encryption Standard (DES)
+<h1 align="center">
+  Criptografia de imagem utilizando o método Data Encryption Standard (DES)
+</h1>
+
+<h3 align="center">
+  Gustavo Faria Amorim
+</h3>
+
+<h4 align="center">
+  Universidade Federal de Ouro Preto (UFOP) - Ouro Preto, MG - Brasil
+  <br>
+  <br>
+</h4>
 
 ## Resumo
 
@@ -152,7 +164,7 @@ O DES com todas as iterações gerou uma imagem com diversas cores, sem uma co
 
 Diante dos resultados, concluı́mos que o algoritmo DES, realmente, consegue deixar a imagem confusa, cumprindo o objetivo de um método criptográfico.
 
-## Referências
+## 5. Referências
 
 1. Stallings, Willian Criptogtafia eança de Redes 6a. EDIÇÂO
 
